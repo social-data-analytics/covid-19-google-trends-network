@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chu
+    given-names: Amanda M. Y.
+  - family-names: Chong
+    given-names: Andy C. Y.
+  - family-names: Lai
+    given-names: H. T. Nick
+    orcid: https://orcid.org/0000-0002-7080-0906
+  - family-names: Tiwari
+    given-names: Agnes
+  - family-names: So
+    given-names: Mike K. P.
+    orcid: https://orcid.org/0000-0003-0781-8166
+title: 'Source code for "Enhancing the predictive power of Google Trends data through network analysis: An infodemiology study of COVID-19"'
+version: 2.0.4
+doi: 10.5281/zenodo.7993355
+date-released: 2023-06-27
