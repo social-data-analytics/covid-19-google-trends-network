@@ -1,5 +1,7 @@
 # Enhancing the predictive power of Google Trends data through network analysis: An infodemiology study of COVID-19
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8084831.svg)](https://doi.org/10.5281/zenodo.8084831)
+
 ## Execution
 This respoitory contains 2 programs, a download worker and a aggregrator. 
 
