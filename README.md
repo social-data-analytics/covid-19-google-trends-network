@@ -1,4 +1,4 @@
-# Source code for "Enhancing the predictive power of Google Trends data through network analysis: An infodemiology study of COVID-19"
+Enhancing the predictive power of Google Trends data through network analysis: An infodemiology study of COVID-19
 
 ## Execution
 This respoitory contains 2 programs, a download worker and a aggregrator. 
